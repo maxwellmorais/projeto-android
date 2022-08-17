@@ -200,6 +200,7 @@ footer{
 }
 
 footer a{
+    color: #FFF;
     text-decoration: none;
     font-weight: bold;
 }
